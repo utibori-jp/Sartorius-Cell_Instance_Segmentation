@@ -1,2 +1,4 @@
-# Sartorius-Cell_Instance_Segmentation
-This repository for the kaggle competition "Sartorius - Cell Instance Segmentation"
+# Sartorius - Cell Instance Segmentation
+This is a repository for [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)
+
+
