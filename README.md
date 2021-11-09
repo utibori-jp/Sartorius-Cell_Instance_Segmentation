@@ -82,6 +82,8 @@ LIVECell_dataset_2021 - LIVECellデータセットのデータのミラーです
 
 ## Log
 ### 2021/11/09
+* base lineとなるコードを写経しながら読み進めた。
+* このREADMEを書いた。
 
 
 ## Reference
