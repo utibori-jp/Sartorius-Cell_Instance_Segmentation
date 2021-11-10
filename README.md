@@ -81,10 +81,8 @@ train_semi_supervised - 半教師付きアプローチのための追加デー�
 LIVECell_dataset_2021 - LIVECellデータセットのデータのミラーです。LIVECellは、このコンペティションの前身となるデータセットです。SH-SHY5Y細胞株の追加データに加えて、転送学習に興味があるかもしれない、コンペティションのデータセットではカバーされていない他のいくつかの細胞株のデータがあります。
 
 ## Log
-### 2021/11/09
-* base lineとなるコードを写経しながら読み進めた。
-* このREADMEを書いた。
-
+### 2021/11/09 ~ 2021/11/
+設置予定
 
 ## Reference
 * [Sartorius - Starter Baseline Torce U-net](https://www.kaggle.com/julian3833/sartorius-starter-baseline-torch-u-net)
